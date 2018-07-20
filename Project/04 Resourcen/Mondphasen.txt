@@ -1,0 +1,51 @@
+int MondPhase(int Year,int Month,int Day)  
+{ 
+  double M; 
+  int XYear,Century; 
+  int a;
+  
+  if(Month<=2)  
+  { 
+	Year--; 
+	Month+=12; 
+  } 
+
+  Month-=3; 
+  XYear=Year % 100; 
+          	
+  a = Year / 100;
+  Century=(a*146097) >> 2; 
+  XYear=(XYear*1461) >> 2; 
+          	
+  M=(floor(((((Month*153)+2)/ 5)+Day)+1721119+XYear+Century)+4.867)/29.53058; 
+  return int(abs(2*(M-floor(M))-1) * 100); 
+}
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+void getPhase(int Y, int M, int D) {  // calculate the current phase of the moon
+  double AG, IP;                      // based on the current date
+  byte phase;                         // algorithm adapted from Stephen R. Schmitt's
+                                      // Lunar Phase Computation program, originally
+  long YY, MM, K1, K2, K3, JD;        // written in the Zeno programming language
+                                      // http://home.att.net/~srschmitt/lunarphasecalc.html
+  // calculate julian date
+  YY = Y - floor((12 - M) / 10);
+  MM = M + 9;
+  if(MM >= 12)
+    MM = MM - 12;
+  
+  K1 = floor(365.25 * (YY + 4712));
+  K2 = floor(30.6 * MM + 0.5);
+  K3 = floor(floor((YY / 100) + 49) * 0.75) - 38;
+
+  JD = K1 + K2 + D + 59;
+  if(JD > 2299160)
+    JD = JD -K3;
+  
+  IP = normalize((JD - 2451550.1) / 29.530588853);
+  AG = IP*29.53;
+phase = IP*39;
