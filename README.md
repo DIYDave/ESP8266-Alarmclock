@@ -1,6 +1,6 @@
 ## Alarmclock with Nextion Touch and ESP8266
 
-ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
+### ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
 
 Site is under construction..
 
