@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Alarmclock with Nextion Touch and ESP8266
 
-You can use the [editor on GitHub](https://github.com/DIYDave/ESP8266-Alarmclock/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
+
+Site is under construction..
+
+Template:
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
