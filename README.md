@@ -31,7 +31,7 @@ Ambient light sensor:   https://goo.gl/LXZFNh
 
 #### Software/Program:
 
-Arduino sketch for ESP: https://github.com/DIYDave/ESP8266-Alarmclock
+Arduino sketch for ESP: https://github.com/DIYDave/ESP8266-Alarmclock/tree/master/Project
 
 
 #### Services used:
