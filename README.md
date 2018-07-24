@@ -2,40 +2,33 @@
 
 ### ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
 
-Site is under construction..
+Another ESP8266 project that has to do with IoT.
+This is an alarm clock with 4 independent alarm times.
+-The internal Real Time Clock (RTC) is synchronized via the Internet.
+-The alarm melody is played by a mini MP3 player with an SD card.
+-Current and future weather information is obtained from the Internet and displayed as symbols and text.
+-An ambient light sensor DIMMs the display in the dark.
+-The moon phases are calculated and displayed as symbols
 
-Template:
+Some details have never been quite finished but the alarm clock wakes me up since December 2017 reliably every day.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+List of resources:
 
-### Markdown
+Hardware:
+ESP8266:                      https://goo.gl/rrBJP6
+Nextion 3.5 "Display:   https://goo.gl/mknGpN
+Mini MP3 player:          https://goo.gl/pq95f4
+Ambient light sensor:  https://goo.gl/LXZFNh
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Software/Program:
+Arduino sketch for ESP: https://github.com/DIYDave/ESP8266-Alarmclock
 
-```markdown
-Syntax highlighted code block
+Services used:
+-Weather:     https://openweathermap.org
+-Time:           https://timezonedb.com (please donate)
 
-# Header 1
-## Header 2
-### Header 3
+Other crafts of mine:
+Https://www.youtube.com/playlist?list=PLMaFfEa45zsyNV_LPKk5LShPhTd0iBbzv
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DIYDave/ESP8266-Alarmclock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+On the Web: www.waldesbuehl.com
+(German only)
