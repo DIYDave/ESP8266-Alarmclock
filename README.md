@@ -19,22 +19,28 @@ Some details have never been quite finished but the alarm clock wakes me up sinc
 List of resources:
 
 Hardware:
+
 ESP8266:                https://goo.gl/rrBJP6
 
 Nextion 3.5 "Display:   https://goo.gl/mknGpN
 
 Mini MP3 player:        https://goo.gl/pq95f4
+
 Ambient light sensor:   https://goo.gl/LXZFNh
 
 Software/Program:
+
 Arduino sketch for ESP: https://github.com/DIYDave/ESP8266-Alarmclock
 
 Services used:
 -Weather:     https://openweathermap.org
--Time:           https://timezonedb.com (please donate)
+
+-Time:        https://timezonedb.com (please donate)
 
 Other crafts of mine:
+
 Https://www.youtube.com/playlist?list=PLMaFfEa45zsyNV_LPKk5LShPhTd0iBbzv
 
-On the Web: www.waldesbuehl.com
+On the Web: 
+www.waldesbuehl.com
 (German only)
