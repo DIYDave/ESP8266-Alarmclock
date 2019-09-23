@@ -27,10 +27,12 @@ Nextion 3,5" Display:        http://s.click.aliexpress.com/e/bCgigI0u
 Mini MP3 Player:             http://s.click.aliexpress.com/e/IVM1sSy
 
 Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
+
 Ambiente Lichtsensor:        http://s.click.aliexpress.com/e/u4MB4ou
 
 Useful:
 Cheap but good Fluke Multimeter: http://s.click.aliexpress.com/e/tH9jMvIs
+
 Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 
