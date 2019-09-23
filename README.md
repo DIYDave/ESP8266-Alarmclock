@@ -19,14 +19,16 @@ Some details have never been quite finished but the alarm clock wakes me up sinc
 #### List of resources:
 
 #### Hardware:
+Hardware:
+ESP8266:                     http://s.click.aliexpress.com/e/XrrdFeY
+Nextion 3,5" Display:        http://s.click.aliexpress.com/e/bCgigI0u
+Mini MP3 Player:             http://s.click.aliexpress.com/e/IVM1sSy
+Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
+Ambiente Lichtsensor:        http://s.click.aliexpress.com/e/u4MB4ou
 
-ESP8266:                https://goo.gl/rrBJP6
-
-Nextion 3.5 "Display:   https://goo.gl/mknGpN
-
-Mini MP3 player:        https://goo.gl/pq95f4
-
-Ambient light sensor:   https://goo.gl/LXZFNh
+Useful:
+Cheap but good Fluke Multimeter: http://s.click.aliexpress.com/e/tH9jMvIs
+Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 
 #### Software/Program:
