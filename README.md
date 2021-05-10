@@ -41,6 +41,8 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 Arduino sketch for ESP: https://github.com/DIYDave/ESP8266-Alarmclock/tree/master/Project
 
+#### used libraries:
+Since there are always problems with newer libraries, I have packed the ones I used into a rar file and put them in the "/Resourcen" directory.
 
 #### Services used:
 -Weather:     https://openweathermap.org
