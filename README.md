@@ -52,16 +52,12 @@ Cheap but good Fluke Multimeter: https://s.click.aliexpress.com/e/_9Q278J
 Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 
-#### Software/Program:
-
-Arduino sketch for ESP: https://github.com/DIYDave/ESP8266-Alarmclock/tree/master/Project
-
 #### Services used:
 -Weather:     https://openweathermap.org
 
 -Time:        https://timezonedb.com (please donate)
 
-#### Other crafts of mine:
+#### Other projects of mine:
 
 Https://www.youtube.com/playlist?list=PLMaFfEa45zsyNV_LPKk5LShPhTd0iBbzv
 
