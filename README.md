@@ -47,7 +47,7 @@ Ambiente Lichtsensor:        https://s.click.aliexpress.com/e/_AM6MiR
 
 Useful:
 
-Cheap but good Fluke Multimeter: http://s.click.aliexpress.com/e/tH9jMvIs
+Cheap but good Fluke Multimeter: https://s.click.aliexpress.com/e/_9Q278J
 
 Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
