@@ -1,5 +1,20 @@
 ## Alarmclock with Nextion Touch and ESP8266
 
+### New Version 1.10
+Due to the problems with the Arduino IDE and the various libraries, I switched to Visual Studio Code and PlatformIO a few years ago. 
+This new variant of the project is based entirely on these tools. 
+All required libraries are included in the project. (Folder "lib") the ESP core version is set to 2.4.2.
+How To: https://platformio.org/install/ide?install=vscode
+
+On this occasion I also made small improvements to the HMI project. -> "Wecker_v1.2.HMI" 
+I created the HMI project with the old Nextion Editor v0.43. 
+I recommend the LTS version of Nextion to open the project. https://nextion.tech/download/nextion-setup-vLTS.zip
+
+Improvements in v1.10
+- Non blocking WiFiManager setting. -> The alarm clock reliably wakes you up even without WiFi
+- Save title and volume settings for alarm tone
+- All libraries updated 
+
 ### ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
 
 Another ESP8266 project that has to do with IoT.
