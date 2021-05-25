@@ -43,7 +43,7 @@ Mini MP3 Player:             http://s.click.aliexpress.com/e/IVM1sSy
 
 Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
 
-Ambiente Lichtsensor:        http://s.click.aliexpress.com/e/u4MB4ou
+Ambiente Lichtsensor:        https://s.click.aliexpress.com/e/_AM6MiR
 
 Useful:
 
