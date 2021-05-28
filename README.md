@@ -21,7 +21,6 @@ I recommend the LTS version of Nextion to open this project. https://nextion.tec
 Place the two .ino files in the same directory. 
 Install all libraries from the "lib" folder. 
 Install ESP8266 Core version 2.4.2. 
-
 I haven't tested this, but it might work
 
 ### ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
