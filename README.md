@@ -72,7 +72,7 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 - Extract the zip in a folder on your PC. Extract also the .rar packet in folder \01 ESP8266.
 - After that, the structure should look like this:
 <img align="left" src="https://github.com/DIYDave/ESP8266-Alarmclock/blob/1.10/Structure.jpg">
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 #### ESP
@@ -85,7 +85,7 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 -  Connect the serial end of the adaptor to the HMI. red-red, black-black, yellow-green, blue-white
 -  Upload the programm to HMI
 
-#### If you have built an alarm clock with this, please *send me a photo.* The email address is at the top of the ESP program
+#### If you have built an alarm clock with this, please send me a photo. The email address is at the top of the ESP program
 
 #### Other projects of mine:
 
