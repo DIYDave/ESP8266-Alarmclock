@@ -38,7 +38,7 @@ This is an alarm clock with 4 independent alarm times.
 
 -The moon phases are calculated and displayed as symbols
 
-This alarm clock wakes me up since December 2017 reliably every day.
+This alarm clock wakes me up since May 2017 reliably every day.
 
 ### List of resources:
 
