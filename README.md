@@ -38,28 +38,20 @@ This is an alarm clock with 4 independent alarm times.
 ### List of resources:
 
 #### Hardware:
-Hardware:
 - ESP8266:                     http://s.click.aliexpress.com/e/XrrdFeY
 - Nextion 3,5" Display:        http://s.click.aliexpress.com/e/bCgigI0u
 - Mini MP3 Player:             http://s.click.aliexpress.com/e/IVM1sSy
-
-Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
-
-Ambiente light sensor:       https://s.click.aliexpress.com/e/_AM6MiR
-
-USB to serial cable for programming the Nextion display: https://s.click.aliexpress.com/e/_9gwYTN
+- Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
+- Ambiente light sensor:       https://s.click.aliexpress.com/e/_AM6MiR
+- USB to serial cable for programming the Nextion display: https://s.click.aliexpress.com/e/_9gwYTN
 
 #### Useful tools:
-
-Cheap but good Fluke Multimeter: https://s.click.aliexpress.com/e/_9Q278J
-
-Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
-
+- Cheap but good Fluke Multimeter: https://s.click.aliexpress.com/e/_9Q278J
+- Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 #### Services used:
--Weather:     https://openweathermap.org
-
--Time:        https://timezonedb.com (please donate)
+- Weather:     https://openweathermap.org
+- Time:        https://timezonedb.com (please donate)
 
 ### How to use
 - Download the project from here as zip. (Green Button on Top)
