@@ -39,9 +39,9 @@ This is an alarm clock with 4 independent alarm times.
 
 #### Hardware:
 Hardware:
-ESP8266:                     http://s.click.aliexpress.com/e/XrrdFeY
-Nextion 3,5" Display:        http://s.click.aliexpress.com/e/bCgigI0u
-Mini MP3 Player:             http://s.click.aliexpress.com/e/IVM1sSy
+- ESP8266:                     http://s.click.aliexpress.com/e/XrrdFeY
+- Nextion 3,5" Display:        http://s.click.aliexpress.com/e/bCgigI0u
+- Mini MP3 Player:             http://s.click.aliexpress.com/e/IVM1sSy
 
 Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
 
