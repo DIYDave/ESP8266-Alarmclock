@@ -9,7 +9,7 @@ How To: https://platformio.org/install/ide?install=vscode
 On this occasion I also made small improvements to the HMI project.  
 -> "Wecker_v1.2.HMI" created with the old Nextion Editor v0.53. 
 I recommend the LTS version of Nextion to open this project. https://nextion.tech/download/nextion-setup-vLTS.zip
- 
+<br />
 -> "Wecker_v1.3.HMI" a even newer version for use with recent Nextion Editor 1.63.1!
 
 ### Improvements in v1.10
