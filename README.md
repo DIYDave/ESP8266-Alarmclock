@@ -39,7 +39,7 @@ This is an alarm clock with 4 independent alarm times.
 
 This alarm clock wakes me up since December 2017 reliably every day.
 
-#### List of resources:
+### List of resources:
 
 #### Hardware:
 Hardware:
@@ -55,7 +55,7 @@ Ambiente light sensor:       https://s.click.aliexpress.com/e/_AM6MiR
 
 USB to serial cable for programming the Nextion display: https://s.click.aliexpress.com/e/_9gwYTN
 
-Useful:
+#### Useful tools:
 
 Cheap but good Fluke Multimeter: https://s.click.aliexpress.com/e/_9Q278J
 
