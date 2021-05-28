@@ -52,6 +52,8 @@ Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
 
 Ambiente Lichtsensor:        https://s.click.aliexpress.com/e/_AM6MiR
 
+USB to serial cable for programming the Nextion display: https://s.click.aliexpress.com/e/_Am9OsB
+
 Useful:
 
 Cheap but good Fluke Multimeter: https://s.click.aliexpress.com/e/_9Q278J
