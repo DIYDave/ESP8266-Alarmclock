@@ -73,6 +73,8 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 - After that, the structure should look like this:
 <img align="left" src="https://github.com/DIYDave/ESP8266-Alarmclock/blob/1.10/Structure.jpg">
 <br>
+<br>
+
 
 #### ESP
 - Open the project in VS Code (doubble click on workspace file) and make changes for your language. (Name of days, months..)
