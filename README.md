@@ -56,7 +56,7 @@ I haven't tested this, but it might work
 ### How to use
 - Download the project from here as zip. (Green Button on Top)
 - Extract the zip in a folder on your PC. Extract also the .rar packet in folder \01 ESP8266.
-- After that, the structure should look like this:
+- After that, the structure should look more or less like this:
 <img align="left" src="https://github.com/DIYDave/ESP8266-Alarmclock/blob/1.10/Structure.jpg">
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
