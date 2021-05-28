@@ -73,7 +73,6 @@ I haven't tested this, but it might work
 #### If you have built an alarm clock with this, please send me a photo. The email address is at the top of the ESP program
 
 #### Other projects of mine:
-
 Https://www.youtube.com/playlist?list=PLMaFfEa45zsyNV_LPKk5LShPhTd0iBbzv
 
 On the Web: 
