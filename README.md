@@ -1,4 +1,6 @@
 ## Alarmclock with Nextion Touch and ESP8266
+Another ESP8266 project that has to do with IoT.
+This is an alarm clock with 4 independent alarm times.
 
 ### New Version 1.10 for PlatformIO
 Due to the problems with the Arduino IDE and the various libraries, I switched to Visual Studio Code and PlatformIO a few years ago. 
@@ -24,9 +26,6 @@ Install ESP8266 Core version 2.4.2.
 I haven't tested this, but it might work
 
 ### ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
-
-Another ESP8266 project that has to do with IoT.
-This is an alarm clock with 4 independent alarm times.
 - The internal Real Time Clock (RTC) is synchronized via the Internet.
 - The alarm melody is played by a mini MP3 player with an SD card.
 - Current and future weather information is obtained from the Internet and displayed as symbols and text.
