@@ -6,9 +6,10 @@ This new variant of the project is based entirely on these tools.
 All required libraries are included in the project. (Folder "lib") the ESP core version is set to 2.4.2.
 How To: https://platformio.org/install/ide?install=vscode
 
-On this occasion I also made small improvements to the HMI project. -> "Wecker_v1.2.HMI" 
-I created the HMI project with the old Nextion Editor v0.43. 
-I recommend the LTS version of Nextion to open the project. https://nextion.tech/download/nextion-setup-vLTS.zip
+On this occasion I also made small improvements to the HMI project.  
+-> "Wecker_v1.2.HMI" created with the old Nextion Editor v0.53. 
+I recommend the LTS version of Nextion to open this project. https://nextion.tech/download/nextion-setup-vLTS.zip
+I created a even newer version -> "Wecker_v1.3.HMI" for use with recent Nextion Editor 1.63.1!
 
 ### Improvements in v1.10
 - Non blocking WiFiManager setting. -> The alarm clock reliably wakes you up even without WiFi
