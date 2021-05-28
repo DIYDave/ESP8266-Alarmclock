@@ -22,7 +22,7 @@ I recommend the LTS version of Nextion to open this project.
 
 ### If you still want to use the Arduino IDE: 
 Place the two .ino files in the same directory. Install all libraries from the "lib" folder. Install ESP8266 Core version 2.4.2. 
-I haven't tested this, but it might work. *But maybe it is the right time to give VS Code and platformIO a chance? The programming is the same as in the Arduino IDE but with all the advantages of a real IDE. :-)*
+I haven't tested this, but it might work. *Maybe it is the right time to give VS Code and platformIO a chance? The programming is the same as in the Arduino IDE but with all the advantages of a real IDE. :-)*
 
 ### ESP8266, 4 Alarms, Nextion HMI, MP3 alarm sound, light sensor, weather forecast, RTC with time sync..
 - The internal Real Time Clock (RTC) is synchronized via the Internet.
