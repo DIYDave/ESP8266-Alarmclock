@@ -52,7 +52,7 @@ Real Time Clock:             http://s.click.aliexpress.com/e/Ex0pRvm
 
 Ambiente light sensor:       https://s.click.aliexpress.com/e/_AM6MiR
 
-USB to serial cable for programming the Nextion display: https://s.click.aliexpress.com/e/_Am9OsB
+USB to serial cable for programming the Nextion display: https://s.click.aliexpress.com/e/_9gwYTN
 
 Useful:
 
