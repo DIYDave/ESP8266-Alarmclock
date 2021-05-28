@@ -67,6 +67,18 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 -Time:        https://timezonedb.com (please donate)
 
+### How to use it
+- Download the project from here as zip. (Green Button on Top)
+- Extract the zip in a folder on your PC. Extract also the .rar packet in folder \01 ESP8266.
+#### ESP
+- Open the project in VS Code (doubble click on workspace file) and make changes for your language. (Names of days, months..)
+- Set your own ID and location for weather and time.
+- Compile and upload to the ESP.
+#### HMI
+-  Connect the USB to serial adaptor to your PC.
+-  Connect the serial end of the adaptor to the HMI. red-red, black-black, yellow-green, blue,white
+-  Upload the programm to HMI
+
 #### Other projects of mine:
 
 Https://www.youtube.com/playlist?list=PLMaFfEa45zsyNV_LPKk5LShPhTd0iBbzv
