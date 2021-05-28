@@ -27,17 +27,13 @@ I haven't tested this, but it might work
 
 Another ESP8266 project that has to do with IoT.
 This is an alarm clock with 4 independent alarm times.
--The internal Real Time Clock (RTC) is synchronized via the Internet.
+- The internal Real Time Clock (RTC) is synchronized via the Internet.
+- The alarm melody is played by a mini MP3 player with an SD card.
+- Current and future weather information is obtained from the Internet and displayed as symbols and text.
+- An ambient light sensor DIMMs the display in the dark.
+- The moon phases are calculated and displayed as symbols
 
--The alarm melody is played by a mini MP3 player with an SD card.
-
--Current and future weather information is obtained from the Internet and displayed as symbols and text.
-
--An ambient light sensor DIMMs the display in the dark.
-
--The moon phases are calculated and displayed as symbols
-
-This alarm clock wakes me up since May 2017 reliably every day.
+*This alarm clock wakes me up since May 2017 reliably every day.*
 
 ### List of resources:
 
