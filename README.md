@@ -70,7 +70,7 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 ### How to use
 - Download the project from here as zip. (Green Button on Top)
 - Extract the zip in a folder on your PC. Extract also the .rar packet in folder \01 ESP8266.
-- ![alt tag](https://github.com/DIYDave/ScrollText-ESP8266/blob/master/photos/Picture_Cut.jpg)
+- ![alt tag](https://https://github.com/DIYDave/ESP8266-Alarmclock/blob/1.10/Structure.jpg)
 
 #### ESP
 - Open the project in VS Code (doubble click on workspace file) and make changes for your language. (Name of days, months..)
