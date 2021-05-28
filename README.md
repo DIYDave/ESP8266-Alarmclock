@@ -78,8 +78,6 @@ Cable set to:                 http://s.click.aliexpress.com/e/s7EqNMre
 
 
 
-
-
 #### ESP
 - Open the project in VS Code (doubble click on workspace file) and make changes for your language. (Name of days, months..)
 - Set your own ID and location for weather and time.
