@@ -1,6 +1,5 @@
 ## Alarmclock with Nextion Touch Display and ESP8266
-Another ESP8266 project that has to do with IoT.
-This is an alarm clock with 4 independent alarm times.
+Another ESP8266 IoT project. This is an alarm clock with 4 independent alarm times.
 <br />
 ![alt tag](https://github.com/DIYDave/ESP8266-Alarmclock/blob/1.10/mq2.jpg)
 
